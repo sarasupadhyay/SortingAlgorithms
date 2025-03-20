@@ -1,2 +1,2 @@
 # SortingAlgorithms
-This Repository includes the Sorting  Alogorithms Code .
+This Repository includes the Sorting Alogorithms Code .
