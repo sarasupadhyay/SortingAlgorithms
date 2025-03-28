@@ -9,4 +9,4 @@ DataMovement   O(n)              O(n^2)           O(n^2)
  Compaarison     O(n^2)              O(n^2)            O(n^2)
  DataMovement    O(n)/O(1)           O(n^2)            O(n^2)
 # Bubble Sort Time Complexity 
-Comparison    O(n^2)     
+Comparison    O(n^2)                 O(n^2)
