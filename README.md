@@ -11,4 +11,4 @@ DataMovement   O(n)              O(n^2)           O(n^2)
 # Bubble Sort Time Complexity 
 Comparison    O(n^2)                 O(n^2)
 #  Merge Sort Time Complexity
-Comparison   O()
+Comparison   O(n)
