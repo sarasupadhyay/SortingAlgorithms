@@ -9,6 +9,8 @@ DataMovement   O(n)              O(n^2)           O(n^2)
  Compaarison     O(n^2)              O(n^2)            O(n^2)
  DataMovement    O(n)/O(1)           O(n^2)            O(n^2)
 # Bubble Sort Time Complexity 
-Comparison    O(n^2)                 O(n^2)
+              Best Case         Worst Case        Average case
+Comparison      O(n^2)              O(n^2)            O(n^2)
+DataMovement    O(1)                O(n^2)            O(n^2)
 #  Merge Sort Time Complexity
 Comparison   O(n)
