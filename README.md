@@ -14,3 +14,4 @@ Comparison      O(n^2)              O(n^2)            O(n^2)
 DataMovement    O(1)                O(n^2)            O(n^2)
 #  Merge Sort Time Complexity
 Comparison   O(n)
+#  Quick Sort Time Complexity
