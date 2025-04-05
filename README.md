@@ -13,5 +13,6 @@ DataMovement   O(n)              O(n^2)           O(n^2)
 Comparison      O(n^2)              O(n^2)            O(n^2)
 DataMovement    O(1)                O(n^2)            O(n^2)
 #  Merge Sort Time Complexity
-Comparison   O(n)
+             Best Case         Worst Case        Average case
+Comparison    O(n)
 #  Quick Sort Time Complexity
