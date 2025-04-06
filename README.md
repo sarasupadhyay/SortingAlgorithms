@@ -16,4 +16,4 @@ DataMovement    O(1)                O(n^2)            O(n^2)
              Best Case         Worst Case        Average case
 Comparison    O(n)
 #  Quick Sort Time Complexity
-             Best Case         Worst Case        Average case
+             Best Case         Worst Case        Average caseee
