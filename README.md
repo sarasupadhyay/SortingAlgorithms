@@ -1,4 +1,4 @@
-#   SortingAlgorithms
+#         SortingAlgorithms
 This Repository includes the Sorting  Alogorithms Code .
 # Insertion Sort Time Complexity
               Best Case         Worst Case        Average case
